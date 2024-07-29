@@ -111,14 +111,18 @@ h1 {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
-.product img {
-    max-width: 100%;
-    height: auto;
-    border-radius: 5px;
-    margin-bottom: 10px;
+.carousel-item img{
+    width: 10px;
+    height: 1000px;
+    padding: 200px;
+    background-color: gray;
 }
 
-.product h2 {
+.caroselExampleCaptions li{
+    size: 300px;
+    }
+
+    .product h2 {
     font-size: 1.5rem;
     color: #333;
     margin-bottom: 10px;
@@ -170,3 +174,7 @@ h1 {
         padding: 8px 20px;
     }
 }
+    .div h5{
+        font-size: 50px;
+        color: #007bff;
+    }
